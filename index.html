@@ -6,12 +6,12 @@ title: MMO的主页
 
 {% if site.posts != empty %}
 <div class="recent-posts">
-  <h1>Recent Posts</h1>
+  <h1>文章</h1>
   {% for post in site.posts limit: 3 %}
     {% if forloop.first %}
       {% assign add_class = 'most-recent' %}
       {% capture fresh_tag %}
-        &nbsp;<span class="badge"><smaller>FRESH</smaller></span>
+        &nbsp;<span class="badge"><smaller>最新</smaller></span>
       {% endcapture %}
     {% endif %}
     <ul class="homepage-posts {{ add_class }}">
@@ -33,7 +33,7 @@ title: MMO的主页
     {% assign fresh_tag = '' %}
   {% endfor %}
   <ul>
-    <a href="{{ site.baseurl }}/list.html">View More...</a>
+    <a href="{{ site.baseurl }}/list.html">更多...</a>
   </ul>
 </div>
 {% endif %}
