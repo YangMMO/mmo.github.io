@@ -561,6 +561,10 @@ time
   font-size:small
 }
 
+.card {
+  margin-top: 20px;
+}
+
 .card img
 {
   border-radius: 50%;
