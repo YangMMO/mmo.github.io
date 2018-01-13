@@ -1,6 +1,6 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2013-11-08 19:55:16
+title:  2018-01-13-文章3样式
+date:   2018-1-13 15:02:02
 categories: jekyll update
 ---
 
