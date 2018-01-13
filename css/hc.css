@@ -55,6 +55,7 @@ p
 .homepage-posts
 {
   list-style:none
+  margin-left: -20px;
 }
 
 .container
@@ -450,9 +451,9 @@ time
   background-color:#fff;
   color:#4d4d4d;
   box-shadow:1px 1px 0 1px #e8e8e8;
-  margin:10px 10%;
   padding:10px 40px
 }
+
 
 .recent-posts h1
 {
