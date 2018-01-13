@@ -263,10 +263,19 @@ pre
 {
   width:100%;
   min-height:400px;
-  margin-top:-50px;
+  margin-top:-40px;
   border-bottom:solid 1px #fff;
   background-position: center;
   z-index:-4
+}
+
+.showcase-wrapper span
+{
+  display: block;
+  line-height: 400px;
+  text-align: center;
+  font-size: 5rem;
+  color: #fff;
 }
 
 .showcase-text
