@@ -55,7 +55,6 @@ p
 .homepage-posts
 {
   list-style:none;
-  margin-left: -40px;
 }
 
 .container
@@ -454,6 +453,9 @@ time
   padding:10px 40px
 }
 
+.recent-posts ul {
+  margin-left: -40px;
+}
 
 .recent-posts h1
 {
