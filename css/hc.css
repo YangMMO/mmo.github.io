@@ -93,7 +93,7 @@ p
 .navbar a 
 {
   text-decoration: none;
-  border-bottom: 1px #b1b1b1 solid;
+  border-bottom: 1px #dbdbdb solid;
 }
 
 #sidebar-wrapper
@@ -739,7 +739,7 @@ time
   .navbar
   {
     display: inherit;
-    background-color: #ededed;
+    background-color: #f5f5f5;
     margin-top: -20px;
   }
 
@@ -755,7 +755,7 @@ time
   }
 
   #article {
-      padding: 0 10px 0 10px;
+      padding: 20px 10px 0 10px;
   }
 
   .showcase-wrapper {
