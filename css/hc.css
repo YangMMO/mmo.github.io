@@ -575,22 +575,22 @@ time
   text-shadow:1px 1px #fff
 }
 
-.fashion
+.game
 {
   border-left:solid 2px #bc0005
 }
 
-.fashion-button
+.game-button
 {
   background-color:#bc0005
 }
 
-.fashion:hover
+.game:hover
 {
   border-left:solid 2px #f40006
 }
 
-.fashion-button:hover
+.game-button:hover
 {
   background-color:#f40006
 }
