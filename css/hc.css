@@ -54,7 +54,7 @@ p
 
 .homepage-posts
 {
-  list-style:none
+  list-style:none;
   margin-left: -40px;
 }
 
