@@ -53,6 +53,14 @@ p
   margin-left: -40px;
 }
 
+.posts a, .homepage-posts a
+{
+  width: 70%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .homepage-posts
 {
   list-style:none;
@@ -454,7 +462,8 @@ time
   padding:10px 40px
 }
 
-.recent-posts ul {
+.recent-posts ul
+{
   margin-left: -40px;
 }
 
@@ -547,7 +556,7 @@ time
   background-color:#f9f9f9;
   box-shadow:1px 1px 0 1px #e8e8e8;
   max-width:800px;
-  padding:10px 40px 0
+  padding:10px 40px 50px;
 }
 
 .user-card h1
